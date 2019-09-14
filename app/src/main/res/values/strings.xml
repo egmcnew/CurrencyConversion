@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Conversion App</string>
+    <string name="btn1">Euros</string>
+    <string name="btn2">Mexican Pesos</string>
+    <string name="btn3">Canadian Dollars</string>
+    <string name="title">Currency Converter</string>
+    <string name="dollars">How many US dollars to convert?</string>
+    <string name="btnConvert">Convert</string>
+    <string name="txtResult">result</string>
+</resources>
